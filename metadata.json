@@ -1,0 +1,8 @@
+{
+  "name": "Zoya Assistant",
+  "description": "2050 futuristic voice assistant featuring a full 3D/4D cyberpunk anime hologram, Gemini 2.5 Live multi-voice streaming, and offline local quantum voice engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
